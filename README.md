@@ -45,7 +45,8 @@ npm install
 npm run dev
 ```
 
-Visit: cool-brioche-563d64.netlify.app/
+Visit: [cool-brioche-563d64.netlify.app](https://cool-brioche-563d64.netlify.app)
+
 
 ---
 
