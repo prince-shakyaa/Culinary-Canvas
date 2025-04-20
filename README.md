@@ -45,7 +45,7 @@ npm install
 npm run dev
 ```
 
-Visit: [http://localhost:5173](http://localhost:5173)
+Visit: cool-brioche-563d64.netlify.app/
 
 ---
 
