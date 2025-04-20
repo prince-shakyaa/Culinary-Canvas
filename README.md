@@ -139,4 +139,4 @@ Open-source under the [MIT License](LICENSE)
 
 ## ✨ Author
 
-Built with 💚 by [Your Name](https://github.com/your-username)
+Built with 💚 by [Prince Shakya](https://github.com/your-username)
